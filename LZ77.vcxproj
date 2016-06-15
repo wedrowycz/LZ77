@@ -80,13 +80,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\naglowek.h" />
+    <ClInclude Include="naglowek.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\dekompresja.c" />
-    <ClCompile Include="..\funkcje.c" />
-    <ClCompile Include="..\kompresja.c" />
-    <ClCompile Include="..\main.c" />
+    <ClCompile Include="dekompresja.c" />
+    <ClCompile Include="funkcje.c" />
+    <ClCompile Include="kompresja.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

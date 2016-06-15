@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+
 #ifndef NAGLOWEK_H_INCLUDED
 #define NAGLOWEK_H_INCLUDED
 /*Definicje struktur*/

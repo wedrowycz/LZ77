@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\naglowek.h">
+    <ClInclude Include="naglowek.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\dekompresja.c">
+    <ClCompile Include="dekompresja.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\funkcje.c">
+    <ClCompile Include="funkcje.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\kompresja.c">
+    <ClCompile Include="kompresja.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\main.c">
+    <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
