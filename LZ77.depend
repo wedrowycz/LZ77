@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1465719553 source:e:\studia\semestr 2\pk\programy\projekt\lz77\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465721395 e:\studia\semestr 2\pk\programy\projekt\lz77\naglowek.h
+
+1465718706 source:e:\studia\semestr 2\pk\programy\projekt\lz77\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465685898 source:e:\studia\semestr 2\pk\programy\projekt\lz77\dekompresja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465685898 source:e:\studia\semestr 2\pk\programy\projekt\lz77\kompresja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465685898 source:e:\test\lz77\dekompresja.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465721395 e:\test\lz77\naglowek.h
+
+1465718706 source:e:\test\lz77\funkcje.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
+1465719553 source:e:\test\lz77\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"naglowek.h"
+
